@@ -9,4 +9,4 @@ layout: post
 modified: 2020-01-18T11:52:00+05:30
 ---
 
-**Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic
+**Photography is the science**, art and practice of creating durable images by recording light or other electromagnetickjnkjnjn
